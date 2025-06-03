@@ -51,11 +51,7 @@ const WebcamCapture = forwardRef<WebcamCaptureRef, WebcamCaptureProps>(
           try {
             // Try with ideal constraints first
             mediaStream = await navigator.mediaDevices.getUserMedia({
-              video: {
-                width: { ideal: 640, max: 1280 },
-                height: { ideal: 480, max: 720 },
-                frameRate: { ideal: 30 }
-              },
+              video: true,
               audio: false
             })
             console.log('Webcam access granted with ideal constraints')
