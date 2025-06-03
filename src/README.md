@@ -6,6 +6,13 @@ Lavande AI is an innovative web application that brings real-time fashion transf
 
 Lavande AI was created using [ChatAndBuild](https://chatandbuild.com/), a no-code AI platform that enables users to build and deploy applications through conversational prompts. This approach allowed for rapid development and deployment without writing a single line of code.
 
+---
+
+## 🖼️ Project Preview
+
+![Lavande AI Interface](/lav.png)
+
+*Screenshot of the Lavande AI web interface showcasing real-time fashion transformations.*
 
 ---
 
@@ -85,6 +92,8 @@ Lavande AI aims to empower self-expression through fashion technology by making 
 ## 🧪 Demo
 
 Coming soon. Stay tuned for a live demo link!
+ ⚠️ **Note:** currently experiencing a minor issue with webcam access. actively working on a fix, and full functionality will be restored soon.
+
 
 ---
 
