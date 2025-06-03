@@ -100,5 +100,3 @@ Coming soon. Stay tuned for a live demo link!
 ## 📬 Contact
 
 For partnerships or inquiries, reach out at: **[fyattani@gmail.com]**
-
-
